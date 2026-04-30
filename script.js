@@ -15,7 +15,7 @@
    ╚══════════════════════════════════════════════════════════╝ */
 const DISCORD = {
   CLIENT_ID    : '1483829660461568173',
-  REDIRECT_URI : '',
+  REDIRECT_URI : 'https://chic-meerkat-147277.netlify.app/',
   SCOPES       : ['identify', 'email', 'guilds', 'connections']
 };
 
