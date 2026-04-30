@@ -14,8 +14,8 @@
    ║  DISCORD OAUTH — edit to match your Discord app          ║
    ╚══════════════════════════════════════════════════════════╝ */
 const DISCORD = {
-  CLIENT_ID    : '1496567949186830356',
-  REDIRECT_URI : 'https://50f2cdd8-ddc0-4295-9e14-fe567b7dcbf8-00-b1sh2j5bs045.spock.replit.dev:5000/',
+  CLIENT_ID    : '1483829660461568173',
+  REDIRECT_URI : '',
   SCOPES       : ['identify', 'email', 'guilds', 'connections']
 };
 
